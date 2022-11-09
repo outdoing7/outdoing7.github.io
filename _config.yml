@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: outdoing7                          # the main title
 
-tagline: 일주일 내내 outdo + ing    # it will display as the sub-title
+tagline: 오늘보다 더 나은 내일   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -81,7 +81,7 @@ theme_mode:   # [light|dark]
 img_cdn: 'https://raw.githubusercontent.com/cotes2020/chirpy-images/main'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiXDIzPk7ftAoiSc9O8lMC4T8os8fhUdROJUqy93kR8OtBsaPqCpjEy8_A2Lxyvbi6-IU&usqp=CAU'
 
 # boolean type, the global switch for ToC in posts.
 toc: true

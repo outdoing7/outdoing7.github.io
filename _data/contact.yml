@@ -3,17 +3,19 @@
 -
   type: github
   icon: 'fab fa-github'
--
-  type: twitter
-  icon: 'fab fa-twitter'
--
-  type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+  url : 'https://github.com/outdoing7'
+# -
+#   type: twitter
+#   icon: 'fab fa-twitter'
+# -
+  # type: email
+  # icon: 'fas fa-envelope'
+  # noblank: false            # open link in current tab
 -
   type: rss
   icon: 'fas fa-rss'
   noblank: true
+  url : 'https://velog.io/@outdoing7'
 
 # Uncomment and complete the url below to enable more contact options
 # -
