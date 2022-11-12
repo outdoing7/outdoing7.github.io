@@ -12,10 +12,10 @@
   # icon: 'fas fa-envelope'
   # noblank: false            # open link in current tab
 -
-  type: rss
-  icon: 'fas fa-rss'
-  noblank: true
-  url : 'https://velog.io/@outdoing7'
+  # type: rss
+  # icon: 'fas fa-rss'
+  # noblank: true
+  # url : 
 
 # Uncomment and complete the url below to enable more contact options
 # -
