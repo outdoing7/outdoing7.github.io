@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: outdoing7                          # the main title
 
-tagline: 오늘보다 더 나은 내일   # it will display as the sub-title
+tagline: 공부하고 정리하는 블로그   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
