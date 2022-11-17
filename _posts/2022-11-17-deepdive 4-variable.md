@@ -1,7 +1,7 @@
 ---
-title: 딥다이브 1~3장 내용 정리
+title: 딥다이브4장_변수
 author: outdoing7
-date: 2022-11-17 20:38:00 +0900
+date: 2022-11-18 00:07:00 +0900
 categories: [DeepDive]
 tags: [DeepDive, javascript , Study]
 ---
