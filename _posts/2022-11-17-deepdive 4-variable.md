@@ -1,9 +1,11 @@
 ---
+
 title: 딥다이브4장_변수
 author: outdoing7
 date: 2022-11-18 00:07:00 +0900
 categories: [DeepDive]
-tags: [DeepDive, javascript , Study]
+tags: [DeepDive, javascript , Study, 변수, 식별자, 실행 컨텍스트, 변수 호이스팅, 가비지 콜렉터, 키워드, 식별자 네이밍 규칙 ]
+
 ---
 
 >## **변수**
