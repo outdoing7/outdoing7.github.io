@@ -1,11 +1,9 @@
 ---
-
 title: 딥다이브4장_변수
 author: outdoing7
 date: 2022-11-18 00:07:00 +0900
 categories: [DeepDive]
 tags: [DeepDive, javascript , Study, 변수, 식별자, 실행 컨텍스트, 변수 호이스팅, 가비지 콜렉터, 키워드, 식별자 네이밍 규칙 ]
-
 ---
 
 >## **변수**
@@ -107,7 +105,7 @@ var users = [
 
 ### **키워드**
 
-- 자바스크립트 엔진이 수행할 동작을 규종한 일종의 명령어
+- 자바스크립트 엔진이 수행할 동작을 규정한 일종의 명령어
 - 자바스크립트 엔진은 키워드를 만나면 자신이 수행해야 할 약속된 동작들을 수행함.
 
 <br>
@@ -184,28 +182,18 @@ console.log(score); // 80
 <br>
 
 >### 식별자 네이밍 규칙
+
 - 특수문자 X
 - 식별자는 문자, 숫자, 언더스코어(_), 달러기호($) 포함 및 시작 가능
 - 숫자로 시작 X
 - 예약어는 식별자로 사용 X
 - 자바스크립트는 대소문자를 구별하므로 주의
 
+<br>
+
 **예약어** <br>
 await, break, case, catch, class, const, continue, debugger, default, delete, do, else, enum, export, extends, false, finally, for, function, if, *implements, import, in, instanceof, *interface, *let, new, null, *package, *private, *protected, *public, return, super, *static, switch, this, throw, true, try, typeof, var, void, whild, with, *yield
 
 \* : 식별자로 사용 가능하나 strict mode에서는 사용불가.
-
-
-
-
-
-
-
-
-
-
-
-
-<br>
 
 
